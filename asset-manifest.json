@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.3f7e929a.css",
   "main.css.map": "static/css/main.3f7e929a.css.map",
-  "main.js": "static/js/main.8047288d.js",
-  "main.js.map": "static/js/main.8047288d.js.map",
+  "main.js": "static/js/main.4b04774e.js",
+  "main.js.map": "static/js/main.4b04774e.js.map",
   "static/media/Roboto-Bold.eot": "static/media/Roboto-Bold.ecdd509c.eot",
   "static/media/Roboto-Bold.ttf": "static/media/Roboto-Bold.e31fcf18.ttf",
   "static/media/Roboto-Bold.woff": "static/media/Roboto-Bold.dc81817d.woff",
@@ -24,6 +24,10 @@
   "static/media/Roboto-Thin.woff": "static/media/Roboto-Thin.7500519d.woff",
   "static/media/Roboto-Thin.woff2": "static/media/Roboto-Thin.954bbdeb.woff2",
   "static/media/android.svg": "static/media/android.3d3bb603.svg",
+  "static/media/demski.png": "static/media/demski.1a0ef4d3.png",
   "static/media/desktop.svg": "static/media/desktop.c49dae29.svg",
-  "static/media/ios.svg": "static/media/ios.04057a57.svg"
+  "static/media/gigsoto.png": "static/media/gigsoto.2cf4df05.png",
+  "static/media/horsetaxi.png": "static/media/horsetaxi.6c690536.png",
+  "static/media/ios.svg": "static/media/ios.04057a57.svg",
+  "static/media/yellowline.png": "static/media/yellowline.a89a5fe4.png"
 }
