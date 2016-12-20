@@ -5,6 +5,11 @@
 	import android from './android.svg'
 	import desktop from './desktop.svg'
 
+	import yellowline from './yellowline.png'
+	import gigsoto from './gigsoto.png'
+	import demski from './demski.png'
+	import horsetaxi from './horsetaxi.png'
+
 	import '../node_modules/materialize-css/dist/js/materialize.min'
 	import '../node_modules/materialize-css/dist/css/materialize.min.css'
 
@@ -69,7 +74,7 @@
 								<div className="col s12 m12 l6">
 									<div className="section valign-wrapper yellow">
 											<div className="valign">
-												<img src="/yellowline.png" alt=""/>	
+												<img src={yellowline} alt=""/>	
 											</div>
 									</div>
 								</div>
@@ -104,7 +109,7 @@
 								<div className="col s12 m12 l6">
 									<div className="section valign-wrapper cyan darken-2">
 											<div className="valign">
-												<img src="/gigsoto.png" alt=""/>	
+												<img src={gigsoto} alt=""/>	
 											</div>
 									</div>
 								</div>
@@ -140,7 +145,7 @@
 								<div className="col s12 m12 l6">
 									<div className="section valign-wrapper blue">
 											<div className="valign">
-												<img src="/demski.png" alt=""/>
+												<img src={demski} alt=""/>
 											</div>
 									</div>
 								</div>
@@ -176,7 +181,7 @@
 								<div className="col s12 m12 l6">
 									<div className="section valign-wrapper amber">
 											<div className="valign">
-												<img src="/horsetaxi.png" alt=""/>
+												<img src={horsetaxi} alt=""/>
 											</div>
 									</div>
 								</div>
