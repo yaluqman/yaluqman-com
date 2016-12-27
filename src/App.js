@@ -364,17 +364,17 @@
 			</div>
 
 			<div className="navigation">
-				<ul>
-					<li>
-							<a href="#skills" className={getActive(0)} onClick={() => this.setState({tab : 0})}>Skills</a>
-					</li>
-					<li>
-							<a href="#portfolio" className={getActive(1)} onClick={() => this.setState({tab : 1})}>Portfolio</a>
-					</li>
-					<li>
-						<a href="#blog" className={getActive(2)} onClick={() => this.setState({tab : 2})}>Blog</a>
-					</li>
-				</ul>
+				<div className="row">
+						<div className="col s12 m12 l4">
+													<a href="#skills" className={getActive(0)} onClick={() => this.setState({tab : 0})}>Skills</a>
+						</div>
+						<div className="col s12 m12 l4">
+													<a href="#portfolio" className={getActive(1)} onClick={() => this.setState({tab : 1})}>Portfolio</a>
+						</div>
+						<div className="col s12 m12 l4">
+												<a href="#blog" className={getActive(2)} onClick={() => this.setState({tab : 2})}>Blog</a>
+						</div>
+				</div>		
 			</div>
 
 			<div className="page">
