@@ -335,7 +335,7 @@
 					</ul>
 					<ul id="nav-mobile" className="right hide-on-med-and-down">
 						<li>
-							<a href="https://www.instagram.com/yaluqman" className="valign-wrapper">
+							<a href="https://www.instagram.com/imyaluqman" className="valign-wrapper">
 								<svg width="16px" height="17px" viewBox="1335 20 16 17" version="1.1" className="valign">
 									<defs></defs>
 									<g id="Instagram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1335.000000, 20.000000)">
@@ -347,7 +347,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://www.facebook.com/yaluqman" className="valign-wrapper">
+							<a href="https://www.facebook.com/imyaluqman" className="valign-wrapper">
 								<svg width="20px" height="21px" viewBox="1285 18 20 21" version="1.1" className="valign">
 									<defs></defs>
 									<g id="Facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1285.000000, 18.000000)">
